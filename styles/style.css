@@ -23,7 +23,6 @@ body
 .card
 {
 /* 	width: 88%; */
-	margin-top: 6rem;
   	background-color: #1b1938;
 	border-radius: 0.5rem;
 	text-align: center;
@@ -119,6 +118,7 @@ p
 	}
 	.card
 	{
+		max-wdith: 70rem;
 		display: flex; 
 		flex-direction: row-reverse;
 	}

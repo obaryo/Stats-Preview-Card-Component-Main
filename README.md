@@ -6,6 +6,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -19,6 +20,11 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
+### Links
+
+- Solution URL:(https://www.frontendmentor.io/solutions/html-css-flexbox-Ns8F7ANqr)
+- Live Site URL:(https://stats-preview-card-component-main-obaryo.vercel.app)
+
 
 ## My process
 
